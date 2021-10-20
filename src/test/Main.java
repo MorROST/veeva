@@ -19,7 +19,7 @@ public class Main {
     //Test #1:
     @Test
     public void xorTest() {
-        int x = 17;
+        int x = 7;
         while (true){
             x = x ^ 1;
             System.out.print(x + " ,");
